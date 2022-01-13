@@ -41,4 +41,5 @@ int main()
             cout<<"Case #"<<i+1<<": "<<val[0]+count<<endl;
       }
       return 0;
+      
 }
